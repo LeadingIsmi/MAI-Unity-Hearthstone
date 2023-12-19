@@ -1,3 +1,1 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:1f24ac55efc1eca154804c4c4c5b10b13ea8064b2203cd502d715b0da083fc82
-size 700
+{"root":[{"assemblyName":"Unity.2D.Animation.Runtime","nameSpace":"","className":"$BurstDirectCallInitializer","methodName":"Initialize","loadTypes":2,"isUnityClass":true},{"assemblyName":"Unity.2D.SpriteShape.Runtime","nameSpace":"","className":"$BurstDirectCallInitializer","methodName":"Initialize","loadTypes":2,"isUnityClass":true},{"assemblyName":"Unity.Collections","nameSpace":"","className":"$BurstDirectCallInitializer","methodName":"Initialize","loadTypes":2,"isUnityClass":true},{"assemblyName":"Unity.VisualScripting.Core","nameSpace":"Unity.VisualScripting","className":"RuntimeVSUsageUtility","methodName":"RuntimeInitializeOnLoadBeforeSceneLoad","loadTypes":1,"isUnityClass":true}]}
