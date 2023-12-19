@@ -35,7 +35,11 @@ _________________________________________________________________________
 
 Монетизация: Полностью бесплатная игра.
 _________________________________________________________________________
-Ссылка на GDD проекта: https://docs.google.com/document/d/1hdde_1cdsVtNyk9lKjzWyd7Emc_2LDO4rlKpicPhyx0/edit
+Полезные ссылки:
+
+GDD проекта: https://docs.google.com/document/d/1hdde_1cdsVtNyk9lKjzWyd7Emc_2LDO4rlKpicPhyx0/edit
+
+Архив с рабочим билдом: https://drive.google.com/file/d/1bGxSAHSOHQO3NvbGLE523RerkCf57_hg/view?usp=sharing
 
 
 
